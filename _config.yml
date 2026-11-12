@@ -1,7 +1,0 @@
-title: GitHub와 친해지기
-description: 바이브코딩 분과 11월 정기 회의 연수 자료
-lang: ko
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
